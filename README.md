@@ -1,4 +1,4 @@
-# Click-Switch
+# Switch & Click
 A game made in 3 days for my entry to My First Game Jam: Summer 2020 and this is my first time participating in a game jam.
 
 A point and click game where you switch colors until they match the enemies color then click all the way to destroy them !
